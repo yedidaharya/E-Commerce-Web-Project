@@ -1,0 +1,23 @@
+{
+    "name": "E-Item",
+    "short_name": "E-Item",
+    "description": "Website Jual Beli Item Game",
+    "start_url": "http://localhost/ecommerce/",
+    "display": "standalone",
+    "background_color": "#4481eb",
+    "theme_color": "#4481eb",
+    "icons": [
+        {
+            "src": "images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "images/maskable_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
